@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color:white;
+}
+#para{
+    padding:5px;
+}
+#clr{
+background-color: black;
+color:white;
+border:1px solid gray;
+}
+#error{
+    color:red;
+}
+.container{
+    padding-left: 10px;
+}
